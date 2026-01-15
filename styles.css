@@ -8,6 +8,10 @@ html {
   padding: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* Global typography */
 body {
   font-family: "Source Sans Pro", sans-serif;
